@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Power BI – Creating insightful dashboards and reports Advanced Excel – Data cleaning, pivot tables, and functions SQL – Writing business-level queries to solve real-world problems Python for Data Analysis – Pandas, NumPy, and data visualization Communication Skills – Improving English and storytelling with data**
 
-- 🤝 I’m looking for help with [Retail-shop-sales-Analysis(POWER BI)](https://github.com/Dipak-1203/Retail-shop-sales-Analysis)
-
 - 👨‍💻 All of my projects are available at [🔧 Portfolio in progress — coming soon with more data magic!](🔧 Portfolio in progress — coming soon with more data magic!)
 
 - 📫 How to reach me **dipak.3012patil@gmail.com**
