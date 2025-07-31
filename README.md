@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dipak.3012patil@gmail.com**
 
-- 📄 Know about my experiences [🔗 Download Dipak_Patil_Resume.docx](🔗 Download Dipak_Patil_Resume.docx)
+- 📄 Know about my experiences [🔗 Download Dipak_Patil_Resume.docx]
 
 - ⚡ Fun fact **"I once created a Power BI dashboard just to track how many cups of chai I drink during project work ☕📊."**
 
