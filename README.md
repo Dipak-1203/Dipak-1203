@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Patil</h1>
 <h3 align="center">"Turning Raw Data into Real Insights 💡 | Aspiring Data Analyst"</h3>
 
-- 🔭 I’m currently working on [Retail_Sales_Analysis_SQL_Project](https://github.com/Dipak-1203/Retail_Sales_Analysis_SQL_Project)
+- 🔭 I’m currently working on [Uber-Delhi-ncr-DA-complete-Project](https://github.com/Dipak-1203/Uber-Delhi-ncr-DA-complete-Project)
 
 - 🌱 I’m currently learning **Power BI – Creating insightful dashboards and reports Advanced Excel – Data cleaning, pivot tables, and functions SQL – Writing business-level queries to solve real-world problems Python for Data Analysis – Pandas, NumPy, and data visualization Communication Skills – Improving English and storytelling with data**
 
